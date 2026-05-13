@@ -7,3 +7,7 @@ I am learning:
 - VS Code
 
 This is my first practice project.
+## Today's learning
+- Created my first repository
+- Learned staging
+- Created my first commit
