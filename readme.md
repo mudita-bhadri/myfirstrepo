@@ -11,3 +11,5 @@ This is my first practice project.
 - Created my first repository
 - Learned staging
 - Created my first commit
+- ## Remote change
+- This line was added directly on GitHub
