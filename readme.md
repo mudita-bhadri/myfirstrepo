@@ -12,4 +12,4 @@ This is my first practice project.
 - Learned staging
 - Created my first commit
 - ## Remote change
-- This line was added directly on GitHub
+- This line was changed REMOTELY on GitHub
