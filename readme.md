@@ -14,3 +14,4 @@ This is my first practice project.
 - ## Remote change
 - This line was chnaged LOCALLY in VS code
 
+- This line was changed REMOTELY on GitHub
