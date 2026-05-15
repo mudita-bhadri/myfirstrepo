@@ -12,6 +12,6 @@ This is my first practice project.
 - Learned staging
 - Created my first commit
 - ## Remote change
-- This line was chnaged LOCALLY in VS code
+- This line was changed LOCALLY in VS code
 
 - This line was changed REMOTELY on GitHub
